@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **jmudoy.contact@gmail.com**
 
-- ⚡ Fun fact **Code magician by day! 🧙‍♂️**
+- ⚡ Fun fact **I'm Code magician by day! 🧙‍♂️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
