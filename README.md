@@ -1,4 +1,4 @@
-[![MasterHead](https://i.postimg.cc/90xGhzvQ/github-header-image.png)](https://jmudoy.com/)
+[![MasterHead](https://i.postimg.cc/7LW3dCrP/github-header-image.png)](https://jmudoy.com/)
 <h1 align="center">"Hello World!" 🌍👋, I'm JM Udoy</h1>
 <h3 align="center">Engineer | Patriot | Storyteller</h3>
 <img align="right" alt="Coding" width="400" src="https://i.postimg.cc/8CmtxhSg/coding-boy.gif">
