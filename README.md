@@ -33,7 +33,10 @@
 `Laravel` `React` `Next.js` `Vue.js` `Node.js` `Express` `Angular` `.NET`  
 
 **Frontend & Styling:**  
-`HTML5` `CSS3` `Bootstrap` `Tailwind CSS` `SASS` `Material-UI`  
+`HTML5` `CSS3` `Bootstrap` `Tailwind CSS` `SASS` `Material-UI` 
+ 
+**Web Development:**  
+`WordPress` `Shopify`
 
 **Databases & Cloud:**  
 `MySQL` `MongoDB` `Oracle` `AWS` `VPS` `CI/CD`  
