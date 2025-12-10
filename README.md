@@ -12,7 +12,7 @@
 - 🚀 Passionate about **AI Integration, Automation & Scalable Systems**  
 - 🛠 Skilled in **UI/UX, Graphic Design & Digital Marketing**  
 - 🌱 Currently exploring **TDD (Test-Driven Development)** & **Cloud/DevOps**  
-- 🎥 Content creator & founder of **Team Horizon – Science & Engineering Community**  
+- ⚫ President & founder of **Team Horizon – Science & Engineering Community**  
 - ⚡ Fun fact: *I’m a code magician by day, storyteller by night!* 🧙‍♂️  
 
 ---
