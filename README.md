@@ -51,11 +51,15 @@
 
 ### 📊 GitHub Analytics  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jm-udoy&layout=donut)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jm-udoy&layout=donut&theme=radical" alt="Top Langs" />
+</p>
 
-![JM Udoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jm-udoy&rank_icon=github&show_icons=true&hide=prs,issues,contribs)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jm-udoy&theme=default)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jm-udoy&show_icons=true&rank_icon=github&count_private=true&theme=radical" alt="JM Udoy's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jm-udoy&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
