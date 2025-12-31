@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me  
 - 🎓 Computer Science & Engineering Graduate  
-- 💼 Experienced in **Full-Stack Web Development** (Laravel, React, Next.js, Node.js)  
+- 💼 Experienced in **Full-Stack Web Development** (PHP, Laravel, React, Next.js)  
 - 🚀 Passionate about **AI Integration, Automation & Scalable Systems**  
 - 🛠 Skilled in **UI/UX, Graphic Design & Digital Marketing**  
 - 🌱 Currently exploring **TDD (Test-Driven Development)** & **Cloud/DevOps**  
@@ -35,7 +35,7 @@
 **Frontend & Styling:**  
 `HTML5` `CSS3` `Bootstrap` `Tailwind CSS` `SASS` `Material-UI` 
  
-**Web Development:**  
+**Other Web Development:**  
 `WordPress` `Shopify`
 
 **Databases & Cloud:**  
